@@ -1,0 +1,5 @@
+Add a new page to the bookmark
+Type the name as: indeexsdk
+For the URL label add->javascript:document.body.contentEditable='true';document.designMode='on';void 0
+Click Ok
+If you want to edit the content of any website then click on the indexsdk and start editing 
